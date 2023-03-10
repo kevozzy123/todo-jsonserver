@@ -70,6 +70,11 @@ main {
   background-color: #008cba;
 }
 
+#input {
+  width: 80%;
+  max-width: 500px;
+}
+
 .todo-box {
   width: 50%;
   min-width: 400px;
