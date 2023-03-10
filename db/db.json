@@ -1,8 +1,29 @@
 {
   "todos": [
     {
-      "content": "sdsd",
-      "id": 1
+      "name": "It's also ok to edit the task",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "name": "You can add new tasks and delete them",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "name": "This is a great todo list",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "name": "Just click on the green arrow button",
+      "isCompleted": true,
+      "id": 9
+    },
+    {
+      "name": "You can also change ths status of the task",
+      "isCompleted": true,
+      "id": 10
     }
   ]
 }
